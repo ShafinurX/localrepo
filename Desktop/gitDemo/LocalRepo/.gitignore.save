@@ -1,0 +1,7 @@
+/../
+
+git rm --cached <file-path>
+
+git clean -nfd
+
+
